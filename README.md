@@ -1,20 +1,2 @@
 # Ideas-Tests-and-More
-
- ___      ________       ________  ________     
-|\  \    |\   ___  \    |\  _____\|\   __  \    
-\ \  \   \ \  \\ \  \   \ \  \__/ \ \  \|\  \   
- \ \  \   \ \  \\ \  \   \ \   __\ \ \  \\\  \  
-  \ \  \   \ \  \\ \  \   \ \  \_|  \ \  \\\  \ 
-   \ \__\   \ \__\\ \__\   \ \__\    \ \_______\
-    \|__|    \|__| \|__|    \|__|     \|_______|
-    
-    # Everything in here is free to use, just include my name (Hardy Gardner) in the authors if you edit it
-    
-    
-    
-    ____                                                    
-   / __ \  ____   _____  __  __   ____ ___   ___    ____    
-  / / / / / __ \ / ___/ / / / /  / __ `__ \ / _ \  / __ \   
- / /_/ / / /_/ // /__  / /_/ /  / / / / / //  __/ / / / / _ 
-/_____/  \____/ \___/  \__,_/  /_/ /_/ /_/ \___/ /_/ /_/ (_)
-
+# Everything in here is free to use, just include my name (Hardy Gardner) in the authors, if you edit it.
